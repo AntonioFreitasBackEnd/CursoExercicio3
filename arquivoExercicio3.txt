@@ -1,1 +1,2 @@
 Arquivo exercicio 3
+Desenvolvedor adicionou uma linha ao arquivo
